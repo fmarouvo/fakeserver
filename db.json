@@ -1,42 +1,44 @@
-[
-  {
-    "id": 1,
-    "manufacturer": "Manufacturer A",
-    "model": "Model X",
-    "hardwareNumber": "HW1234",
-    "softwareNumber": "SW1234",
-    "softwareUpdateNumber": "SU1234"
-  },
-  {
-    "id": 2,
-    "manufacturer": "Manufacturer B",
-    "model": "Model Y",
-    "hardwareNumber": "HW5678",
-    "softwareNumber": "SW5678",
-    "softwareUpdateNumber": "SU5678"
-  },
-  {
-    "id": 3,
-    "manufacturer": "Manufacturer C",
-    "model": "Model Z",
-    "hardwareNumber": "HW9012",
-    "softwareNumber": "SW9012",
-    "softwareUpdateNumber": "SU9012"
-  },
-  {
-    "id": 4,
-    "manufacturer": "Manufacturer D",
-    "model": "Model W",
-    "hardwareNumber": "HW3456",
-    "softwareNumber": "SW3456",
-    "softwareUpdateNumber": "SU3456"
-  },
-  {
-    "id": 5,
-    "manufacturer": "Manufacturer E",
-    "model": "Model V",
-    "hardwareNumber": "HW7890",
-    "softwareNumber": "SW7890",
-    "softwareUpdateNumber": "SU7890"
-  }
-]
+{
+	"AutoModule": [
+		{
+		"id": 1,
+		"manufacturer": "Manufacturer A",
+		"model": "Model X",
+		"hardwareNumber": "HW1234",
+		"softwareNumber": "SW1234",
+		"softwareUpdateNumber": "SU1234"
+		},
+		{
+		"id": 2,
+		"manufacturer": "Manufacturer B",
+		"model": "Model Y",
+		"hardwareNumber": "HW5678",
+		"softwareNumber": "SW5678",
+		"softwareUpdateNumber": "SU5678"
+		},
+		{
+		"id": 3,
+		"manufacturer": "Manufacturer C",
+		"model": "Model Z",
+		"hardwareNumber": "HW9012",
+		"softwareNumber": "SW9012",
+		"softwareUpdateNumber": "SU9012"
+		},
+		{
+		"id": 4,
+		"manufacturer": "Manufacturer D",
+		"model": "Model W",
+		"hardwareNumber": "HW3456",
+		"softwareNumber": "SW3456",
+		"softwareUpdateNumber": "SU3456"
+		},
+		{
+		"id": 5,
+		"manufacturer": "Manufacturer E",
+		"model": "Model V",
+		"hardwareNumber": "HW7890",
+		"softwareNumber": "SW7890",
+		"softwareUpdateNumber": "SU7890"
+		}
+	]
+}
