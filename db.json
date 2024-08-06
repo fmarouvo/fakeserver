@@ -6,7 +6,9 @@
 			"model": "Corolla",
 			"hardwareNumber": "HW1234",
 			"softwareNumber": "SW1234",
-			"softwareUpdateNumber": "SU1234"
+			"softwareUpdateNumber": "SU1234",
+			"year": "2015-01-01T00:00:00.000Z",
+			"type": "Sedan"
 		},
 		{
 			"id": 2,
@@ -14,7 +16,9 @@
 			"model": "Civic",
 			"hardwareNumber": "HW5678",
 			"softwareNumber": "SW5678",
-			"softwareUpdateNumber": "SU5678"
+			"softwareUpdateNumber": "SU5678",
+			"year": "2018-01-01T00:00:00.000Z",
+			"type": "Sedan"
 		},
 		{
 			"id": 3,
@@ -22,7 +26,9 @@
 			"model": "Mustang",
 			"hardwareNumber": "HW9012",
 			"softwareNumber": "SW9012",
-			"softwareUpdateNumber": "SU9012"
+			"softwareUpdateNumber": "SU9012",
+			"year": "2012-01-01T00:00:00.000Z",
+			"type": "Coupe"
 		},
 		{
 			"id": 4,
@@ -30,7 +36,9 @@
 			"model": "Camaro",
 			"hardwareNumber": "HW3456",
 			"softwareNumber": "SW3456",
-			"softwareUpdateNumber": "SU3456"
+			"softwareUpdateNumber": "SU3456",
+			"year": "2020-01-01T00:00:00.000Z",
+			"type": "Coupe"
 		},
 		{
 			"id": 5,
@@ -38,7 +46,9 @@
 			"model": "3 Series",
 			"hardwareNumber": "HW7890",
 			"softwareNumber": "SW7890",
-			"softwareUpdateNumber": "SU7890"
+			"softwareUpdateNumber": "SU7890",
+			"year": "2016-01-01T00:00:00.000Z",
+			"type": "Sedan"
 		}
 	]
 }
