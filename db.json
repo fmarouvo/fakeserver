@@ -2,40 +2,40 @@
 	"AutoModule": [
 		{
 			"id": 1,
-			"manufacturer": "Manufacturer A",
-			"model": "Model X",
+			"manufacturer": "Toyota",
+			"model": "Corolla",
 			"hardwareNumber": "HW1234",
 			"softwareNumber": "SW1234",
 			"softwareUpdateNumber": "SU1234"
 		},
 		{
 			"id": 2,
-			"manufacturer": "Manufacturer B",
-			"model": "Model Y",
+			"manufacturer": "Honda",
+			"model": "Civic",
 			"hardwareNumber": "HW5678",
 			"softwareNumber": "SW5678",
 			"softwareUpdateNumber": "SU5678"
 		},
 		{
 			"id": 3,
-			"manufacturer": "Manufacturer C",
-			"model": "Model Z",
+			"manufacturer": "Ford",
+			"model": "Mustang",
 			"hardwareNumber": "HW9012",
 			"softwareNumber": "SW9012",
 			"softwareUpdateNumber": "SU9012"
 		},
 		{
 			"id": 4,
-			"manufacturer": "Manufacturer D",
-			"model": "Model W",
+			"manufacturer": "Chevrolet",
+			"model": "Camaro",
 			"hardwareNumber": "HW3456",
 			"softwareNumber": "SW3456",
 			"softwareUpdateNumber": "SU3456"
 		},
 		{
 			"id": 5,
-			"manufacturer": "Manufacturer E",
-			"model": "Model V",
+			"manufacturer": "BMW",
+			"model": "3 Series",
 			"hardwareNumber": "HW7890",
 			"softwareNumber": "SW7890",
 			"softwareUpdateNumber": "SU7890"
