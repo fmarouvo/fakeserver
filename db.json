@@ -141,26 +141,6 @@
       "map": "MAP7891"
     },
     {
-      "id": 9,
-      "manufacturer": "Toyota",
-      "model": "Corolla",
-      "hardwareNumber": "HW8901",
-      "softwareNumber": "SW8901",
-      "softwareUpdateNumber": "SU8901",
-      "year": "2019-01-01T00:00:00.000Z",
-      "type": "Coupe",
-      "fuel": "Gasoline",
-      "checksum8": "1D5F6G8H",
-      "checksum16": "19D5F6G8H0J1K",
-      "settingFileNumber": "SFN8901",
-      "engineId": "ENG8901",
-      "ecu": "ECU8901",
-      "protocol": "PROTO127",
-      "plugin": "PLUGIN127",
-      "checksumAlgorithm": "SHA256",
-      "map": "MAP8901"
-    },
-    {
       "id": 10,
       "manufacturer": "Toyota",
       "model": "Corolla",
