@@ -119,26 +119,6 @@
       "plugin": "PLUGIN124",
       "checksumAlgorithm": "SHA256",
       "map": "MAP5679"
-    }
-    {
-      "id": 8,
-      "manufacturer": "Toyota",
-      "model": "Corolla",
-      "hardwareNumber": "HW7891",
-      "softwareNumber": "SW7891",
-      "softwareUpdateNumber": "SU7891",
-      "year": "2018-01-01T00:00:00.000Z",
-      "type": "SUV",
-      "fuel": "Hybrid",
-      "checksum8": "0C4E5F7G",
-      "checksum16": "18C4E5F7G9H0I",
-      "settingFileNumber": "SFN7891",
-      "engineId": "ENG7891",
-      "ecu": "ECU7891",
-      "protocol": "PROTO126",
-      "plugin": "PLUGIN126",
-      "checksumAlgorithm": "SHA256",
-      "map": "MAP7891"
     },
     {
       "id": 10,
